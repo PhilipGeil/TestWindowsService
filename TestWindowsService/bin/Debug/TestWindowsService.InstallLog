@@ -1,0 +1,37 @@
+﻿Installerer assemblyen 'C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Installerer tjenesten Test Windows Service...
+Opretter EventLog-kilden Test Windows Service i logfilen Application...
+Annullerer opdatering af assemblyen 'C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Gendanner hændelsesloggen til den foregående tilstand for kilden Test Windows Service.
+Der opstod en undtagelse under tilbagerulningsfasen i installationsprogrammet System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+Der opstod en undtagelse under tilbagerulningsfasen af installationen. Undtagelsen bliver ignoreret, og tilbagerulningen fortsætter. Computeren vender dog muligvis ikke tilbage til sin helt oprindelige tilstand, når tilbagerulningen er fuldført.
+Installerer assemblyen 'C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Installerer tjenesten Test Windows Service...
+Tjenesten Test Windows Service blev installeret.
+Opretter EventLog-kilden Test Windows Service i logfilen Application...
+Bekræfter assemblyen 'C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Afinstallerer assemblyen 'C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\phil2643\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Fjerner EventLog-kilden Test Windows Service.
+Tjenesten Test Windows Service bliver fjernet fra systemet...
+Tjenesten Test Windows Service blev fjernet fra systemet.

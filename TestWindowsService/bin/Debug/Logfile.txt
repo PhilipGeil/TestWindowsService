@@ -1,0 +1,3 @@
+13-11-2020 09:32:11: Test windows service started
+13-11-2020 09:32:41: Timer ticked and some job has been done succesfully
+13-11-2020 09:33:03: Test windows service stopped
